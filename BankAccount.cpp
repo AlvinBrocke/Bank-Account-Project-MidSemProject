@@ -117,11 +117,11 @@ int main()
     vector<BankAccount *> bank;
 
     // Create (5) BankAccount objects and add them to the vector
-    SavingsAccount *acc1 = new SavingsAccount("Alvin Brocke", "4421284943", 12500.0, 4.5);
+    SavingsAccount *acc1 = new SavingsAccount("Alvin Brocke", "442128491", 12500.0, 4.5);
     BankAccount *acc2 = new BankAccount("Noble Ampratwum", "475731941", 10300.0);
-    BankAccount *acc3 = new BankAccount("Doreen Nkpogoh", "43578453", 8450.0);
-    SavingsAccount *acc4 = new SavingsAccount("Charles Dwight", "411276590", 11870.0, 2.5);
-    CheckingAccount *acc5 = new CheckingAccount("Megan King", "498744624", 13320.0, 500.0);
+    BankAccount *acc3 = new BankAccount("Doreen Nkpogoh", "435728453", 8500.0);
+    SavingsAccount *acc4 = new SavingsAccount("Charles Dwight", "411276590", 11000.0, 2.5);
+    CheckingAccount *acc5 = new CheckingAccount("Megan King", "498744624", 13500.0, 500.0);
 
     // Adding the Bank accounts to the vector
     bank.push_back(acc1);
