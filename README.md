@@ -10,7 +10,7 @@ This program is a simple bank account management system implemented in C++. It a
 - Command-line interface
 
 ### Compilation
-1. Download the source file (BankAccount.cpp}
+1. Download the source file (BankAccount.cpp) to your local machine.
 2. Open a terminal window.
 3. Navigate to the directory containing the source code files (`main.cpp`).
 4. Run the following command to compile the program:
