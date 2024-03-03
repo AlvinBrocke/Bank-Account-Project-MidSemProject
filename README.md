@@ -10,9 +10,10 @@ This program is a simple bank account management system implemented in C++. It a
 - Command-line interface
 
 ### Compilation
-1. Open a terminal window.
-2. Navigate to the directory containing the source code files (`main.cpp`).
-3. Run the following command to compile the program:
+1. Download the source file (BankAccount.cpp}
+2. Open a terminal window.
+3. Navigate to the directory containing the source code files (`main.cpp`).
+4. Run the following command to compile the program:
     ```
     g++ main.cpp -o bank_accounts
     ```
